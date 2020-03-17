@@ -1,6 +1,6 @@
 FROM  fedora
 #  it will be the base image
-MAINTAINER   ashutoshh@linux.com , 9509957594
+MAINTAINER   bhuwan.singh2811@gmail.com, 9742939589
 # dev info  for people to connect
 RUN  yum   install  httpd  -y
 #  it will install  httpd
